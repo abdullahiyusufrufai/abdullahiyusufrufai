@@ -61,19 +61,32 @@ My interests lie at the intersection of **hardware, software, and intelligence**
 
 ---
 
-## 📊 GitHub Statistics
+## 📫 Connect With Me
 
-![Abdullahi Yusuf Rufai’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=mujeeb789&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mujeeb789&layout=compact&theme=tokyonight)
+- 📞 **Phone:** +234 7037 4111 315  
+- 📍 **Address:** Abuja | Lagos | Ilorin | Bauchi  
+- 🏙️ **Current City:** Lagos, Nigeria  
+- 📖 **Hobby:** Reading, Traveling
+
+### 📧 Contact Emails
+- **Primary:** yusufrufaiabdullahi@gmail.com  
+- **Secondary:** abdullahiyusufrufai@nascomsoft.com
 
 ---
 
-## 📫 Connect With Me
+### 🤝 Availability
+- ✍️ **Technical Writing:** Available  
+- 🔬 **Research Assistance:** Available  
+- 🧩 **Open-Source Contribution:** Available
+
+## 🌐 Online Presence & Publications
 
 - 🔗 **LinkedIn:** [Abdullahi Yusuf Rufai](https://ng.linkedin.com/in/abdullahi-yusuf-rufai-a07a24237)  
-- 📧 **Email:** [yusufrufabdullahi@gmail.com](mailto:yusufrufabdullahi@gmail.com)  
-- 📧 **Email:** [abdullahiyusufrufai@nascomsoft.com](mailto:abdullahiyusufrufai@nascomsoft.com)
+- ✍️ **Medium:** [yusufrufaiabdullahi](https://medium.com/@yusufrufaiabdullahi/your-welcome-mercy-3da54db05bd8)  
+- 📘 **Facebook:** [Abdullahi Yusuf Rufai](https://web.facebook.com/abdullahi.yusufrufai)  
+
+
 
 ---
 
@@ -92,5 +105,9 @@ My interests lie at the intersection of **hardware, software, and intelligence**
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
+
 
 ⭐ **Feel free to explore my repositories, contribute, or reach out for collaboration.**
+
+---
