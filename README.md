@@ -37,15 +37,10 @@ My interests lie at the intersection of **hardware, software, and intelligence**
 ## 🛠️ Tools
 
 ### **Embedded & Hardware Platforms**
-- **Arduino**
-- **Raspberry Pi**
-- **ESP 32** 
-- **Sensors, Actuators & Microcontrollers**
+- **Arduino | Raspberry Pi | ESP 32 | Sensors, Actuators & Microcontrollers**
 
 ### **Systems & OS**
-- **Linux**
-- **Windows**
-- **Embedded Linux Environments**
+- **Linux | Windows | Embedded Linux Environments**
 
 ---
 
