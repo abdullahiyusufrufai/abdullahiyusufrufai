@@ -73,6 +73,9 @@ My interests lie at the intersection of **hardware, software, and intelligence**
 - **Primary:** yusufrufaiabdullahi@gmail.com  
 - **Secondary:** abdullahiyusufrufai@nascomsoft.com
 
+## 📄 Resume / CV
+👉 [Download My CV](./Abdullahi_Yusuf_Rufai_CV.pdf)
+
 ---
 
 ### 🤝 Availability
