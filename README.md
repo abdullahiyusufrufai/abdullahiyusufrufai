@@ -34,19 +34,7 @@ My interests lie at the intersection of **hardware, software, and intelligence**
 
 ---
 
-## 🛠️ Languages & Tools
-
-### **Programming & Engineering Tools**
-- **Python**
-- **C / C++**
-- **MATLAB**
-- **R**
-
-### **AI & Machine Learning**
-- **TensorFlow**
-- **PyTorch**
-- **Keras**
-- **Scikit-Learn and other ML/DL frameworks**
+## 🛠️ Tools
 
 ### **Embedded & Hardware Platforms**
 - **Arduino**
