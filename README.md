@@ -1,14 +1,14 @@
 # 👋 Hi, I'm **Abdullahi Yusuf Rufai**
 
-🚀 *Mechatronics & Systems Engineering Student | Embedded Systems | AI & Intelligent Systems Engineer*
+🚀 *Mechatronics & Systems Engineer | Embedded Systems | AI & Intelligent Systems Engineer | Software Design Engr. *
 
 ---
 
 ## 💡 About Me
 
-I am a **Mechatronics and Systems Engineering student** at **Abubakar Tafawa Balewa University (ATBU), Bauchi (2024)** with a strong passion for **building intelligent systems that bridge the physical and digital worlds**.
+I am a **Mechatronics and Systems Engineering graduate** at **Abubakar Tafawa Balewa University (ATBU), Bauchi (2024)** with a strong passion for **building intelligent systems that bridge the physical and digital worlds**.
 
-My interests lie at the intersection of **hardware, software, and intelligence**, where I design, develop, and experiment with systems that integrate **electronics, control, computation, and artificial intelligence**. I enjoy working on real-world engineering problems using modern tools, frameworks, and emerging technologies.
+My interests lie at the intersection of **hardware, software, and intelligence**, where I design, develop, and experiment with systems that integrate **electronics, control, computation, machine learnign, artificial intelligence and software develpment**. I enjoy working on real-world engineering problems using modern tools, frameworks, and emerging technologies.
 
 ---
 
@@ -46,16 +46,18 @@ My interests lie at the intersection of **hardware, software, and intelligence**
 - **TensorFlow**
 - **PyTorch**
 - **Keras**
-- Scikit-Learn and other ML/DL frameworks
+- **Scikit-Learn and other ML/DL frameworks**
 
 ### **Embedded & Hardware Platforms**
 - **Arduino**
 - **Raspberry Pi**
-- Sensors, Actuators & Microcontrollers
+- **ESP 32** 
+- **Sensors, Actuators & Microcontrollers**
 
 ### **Systems & OS**
 - **Linux**
-- Embedded Linux Environments
+- **Windows**
+- **Embedded Linux Environments**
 
 ---
 
