@@ -21,8 +21,8 @@ I’m passionate about technology and enjoy working at the intersection of hardw
 
 📫 *Connect with Me:*  
 - [LinkedIn](https://ng.linkedin.com/in/abdullahi-yusuf-rufai-a07a24237)  
-- [Email](yusufrufabdullahi@gmail.com)
-- [Email](abdullahiyusufrufai@nascomsoft.com)  
+- [Email](mailto:yusufrufabdullahi@gmail.com)
+- [Email](mailto:abdullahiyusufrufai@nascomsoft.com)  
 
 ---
 
@@ -44,6 +44,5 @@ I’m passionate about technology and enjoy working at the intersection of hardw
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi)
-![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FF6C00?style=for-the-badge&logo=autodesk)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
