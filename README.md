@@ -24,23 +24,17 @@ My interests lie at the intersection of **hardware, software, and intelligence**
 ---
 
 ## 🎯 What I’m Currently Working On
-
-- 🚀 Designing and developing **smart IoT devices**
-- 🚗 Researching and prototyping **intelligent mobility systems**
-- ☁️ Building skills in **AWS Cloud Engineering**
-- 🤖 Exploring **robotics modeling and control systems**
-- 🧠 Experimenting with **Edge AI and embedded ML**
-- 🧩 Advancing knowledge in **complex system design and integration**
+- Itta Core ...
 
 ---
 
 ## 🛠️ Tools
 
-### **Embedded & Hardware Platforms**
-- **Arduino | Raspberry Pi | ESP 32 | Sensors, Actuators & Microcontrollers**
+#### **Embedded & Hardware Platforms**
+- Arduino | Raspberry Pi | ESP 32 | STM32 | Sensors, Actuators & Microcontrollers
 
-### **Systems & OS**
-- **Linux | Windows | Embedded Linux Environments**
+#### **Systems & OS**
+- Linux | Windows | Embedded Linux Environments
 
 ---
 
@@ -121,6 +115,7 @@ My interests lie at the intersection of **hardware, software, and intelligence**
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows)
+![Gazebo](https://img.shields.io/badge/-Gazebo-000000?style=for-the-badge)
 
 
 ---
